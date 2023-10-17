@@ -1,0 +1,15 @@
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/bin/Debug/net8.0/lab6
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/bin/Debug/net8.0/lab6.deps.json
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/bin/Debug/net8.0/lab6.runtimeconfig.json
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/bin/Debug/net8.0/lab6.dll
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/bin/Debug/net8.0/lab6.pdb
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.AssemblyInfoInputs.cache
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.AssemblyInfo.cs
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.csproj.CoreCompileInputs.cache
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.sourcelink.json
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.dll
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/refint/lab6.dll
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.pdb
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/lab6.genruntimeconfig.cache
+/Users/umyong/Library/CloudStorage/OneDrive-KMITL/prolang/c#/lab6/obj/Debug/net8.0/ref/lab6.dll
